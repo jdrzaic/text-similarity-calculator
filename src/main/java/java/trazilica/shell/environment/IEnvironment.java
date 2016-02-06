@@ -1,6 +1,6 @@
 package java.trazilica.shell.environment;
 
-import java.trazilica.commands.ShellCommand;
+import java.similarity.commands.ShellCommand;
 
 /**
  * Sucelje reprezentira okruzenje shell-a implementiranog u ovom 

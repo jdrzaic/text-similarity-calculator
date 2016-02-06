@@ -1,4 +1,4 @@
-package java.trazilica.commands;
+package java.similarity.commands;
 
 /**
  * enum predstavlja statuse u kojima se moze nalaziti shell

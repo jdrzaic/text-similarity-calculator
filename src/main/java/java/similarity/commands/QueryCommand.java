@@ -1,4 +1,4 @@
-package java.trazilica.commands;
+package java.similarity.commands;
 
 import java.trazilica.resources.Document;
 import java.trazilica.resources.Resources;

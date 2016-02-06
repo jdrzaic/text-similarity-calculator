@@ -1,8 +1,8 @@
 package java.trazilica.shell.environment;
 
-import java.trazilica.commands.ExitCommand;
-import java.trazilica.commands.QueryCommand;
-import java.trazilica.commands.ShellCommand;
+import java.similarity.commands.ExitCommand;
+import java.similarity.commands.QueryCommand;
+import java.similarity.commands.ShellCommand;
 import java.util.HashMap;
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package java.trazilica.commands;
+package java.similarity.commands;
 
 import java.Konzola;
 import java.trazilica.resources.Resources;
