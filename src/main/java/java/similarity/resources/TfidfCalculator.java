@@ -1,6 +1,6 @@
-package java.trazilica.resources;
+package java.similarity.resources;
 
-import java.trazilica.vector.HashedVector;
+import java.similarity.vector.HashedVector;
 import java.util.List;
 
 /**

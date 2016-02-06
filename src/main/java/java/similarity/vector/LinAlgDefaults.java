@@ -1,4 +1,4 @@
-package java.trazilica.vector;
+package java.similarity.vector;
 
 import hr.fer.zemris.linearna.IMatrix;
 import hr.fer.zemris.linearna.IVector;

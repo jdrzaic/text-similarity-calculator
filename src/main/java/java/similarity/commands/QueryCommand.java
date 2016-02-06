@@ -1,8 +1,8 @@
 package java.similarity.commands;
 
-import java.trazilica.resources.Document;
-import java.trazilica.resources.Resources;
-import java.trazilica.resources.TfidfCalculator;
+import java.similarity.resources.Document;
+import java.similarity.resources.Resources;
+import java.similarity.resources.TfidfCalculator;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

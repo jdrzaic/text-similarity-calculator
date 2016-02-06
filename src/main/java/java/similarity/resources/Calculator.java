@@ -1,4 +1,4 @@
-package java.trazilica.resources;
+package java.similarity.resources;
 
 import java.util.List;
 

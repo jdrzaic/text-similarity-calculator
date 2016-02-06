@@ -1,7 +1,7 @@
 package java;
 
-import java.trazilica.shell.Session;
-import java.trazilica.shell.environment.SearchEnvironment;
+import java.similarity.shell.Session;
+import java.similarity.shell.environment.SearchEnvironment;
 
 /**
  * Glavni program za testiranje slicnosti dokumenata s zadanim querijem.
@@ -14,7 +14,7 @@ import java.trazilica.shell.environment.SearchEnvironment;
  * @author jelena
  *
  */
-public class Konzola {
+public class Console {
 	
 	/**
 	 * Metoda se poziva prilikom pokretanja programa.

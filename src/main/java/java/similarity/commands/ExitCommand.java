@@ -1,6 +1,6 @@
 package java.similarity.commands;
 
-import java.trazilica.resources.Resources;
+import java.similarity.resources.Resources;
 
 /**
  * Razred implementira sucelje {@link ShellCommand}.

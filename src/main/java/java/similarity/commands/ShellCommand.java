@@ -1,11 +1,11 @@
 package java.similarity.commands;
 
-import java.Konzola;
-import java.trazilica.resources.Resources;
+import java.Console;
+import java.similarity.resources.Resources;
 
 /**
  * Sucelje reprezenira jednu naredbu koja se koristi u ovom projektu,
- * za implementacije operacija koristenih u {@link Konzola}.
+ * za implementacije operacija koristenih u {@link Console}.
  * 
  * @author Jelena Drzaic
  *

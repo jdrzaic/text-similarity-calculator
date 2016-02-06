@@ -1,12 +1,13 @@
-package java.trazilica.resources;
+package java.similarity.resources;
 
 import java.util.List;
 
-public class QRCalculator extends Calculator {
+public class SVDCalculator extends Calculator {
 
 	@Override
 	public void calculate(List<Document> documents) {
 		// TODO Auto-generated method stub
 		
 	}
+
 }

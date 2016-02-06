@@ -1,5 +1,5 @@
-package java.trazilica.resources;
-import java.trazilica.vector.*;
+package java.similarity.resources;
+import java.similarity.vector.*;
 
 /**
  * Razred reprezentira prikaz dokumenta.

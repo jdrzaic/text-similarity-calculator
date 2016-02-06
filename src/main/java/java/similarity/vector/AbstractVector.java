@@ -1,4 +1,4 @@
-package java.trazilica.vector;
+package java.similarity.vector;
 
 import java.math.BigDecimal;
 import java.math.MathContext;

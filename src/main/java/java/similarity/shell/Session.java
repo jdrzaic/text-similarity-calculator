@@ -1,7 +1,7 @@
-package java.trazilica.shell;
+package java.similarity.shell;
 
 import java.util.List;
-import java.Konzola;
+import java.Console;
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -12,13 +12,13 @@ import java.io.OutputStreamWriter;
 import java.similarity.commands.QueryCommand;
 import java.similarity.commands.ShellCommand;
 import java.similarity.commands.ShellStatus;
-import java.trazilica.resources.Resources;
-import java.trazilica.shell.environment.IEnvironment;
-import java.trazilica.shell.environment.SearchEnvironment;
+import java.similarity.resources.Resources;
+import java.similarity.shell.environment.IEnvironment;
+import java.similarity.shell.environment.SearchEnvironment;
 import java.util.Map.Entry;
 
 /**
- * Razred implementira korisnicku interakciju s {@link Konzola}.
+ * Razred implementira korisnicku interakciju s {@link Console}.
  * @author jelena
  */
 public class Session {

@@ -1,4 +1,4 @@
-package java.trazilica.shell.environment;
+package java.similarity.shell.environment;
 
 import java.similarity.commands.ShellCommand;
 
